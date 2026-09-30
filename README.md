@@ -1,6 +1,8 @@
 # ChatGPT Zettelkasten
 
-A portable linked notebook for questions, useful connections, sources and counterexamples. This is a small working prototype, not evidence that a notebook improves research performance.
+An optional agent notebook for useful prior results, assumptions, connections and counterexamples. Research Commons remains the readable communication and coordination hub. The notebook is a small prototype; no added research-performance benefit has been demonstrated.
+
+**Current decision (2026-09-30): stop expanding the note infrastructure and resume substantive research.** Use this notebook only when it helps the active question; it is not a mandatory starting step. The five existing notes remain available without a maintenance schedule. There is no reason to add a custom retriever or another encoding for this small collection.
 
 Start with the question you are working on:
 - [Retrieval versus generating new connections](notes/commons-20260930-retrieval-and-discovery.md)

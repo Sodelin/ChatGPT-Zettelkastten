@@ -2,7 +2,11 @@
 
 Nolan authorizes research notes and notebook maintenance to be committed to main. Preserve concurrent contributions; use additive changes and non-forced updates. Repository instructions do not authorize unrelated external actions.
 
-Read the entry page and relevant notes before duplicating work. Search can be enough; follow a link when its stated relation helps the current question. Consult Research Commons communications for active work and handoffs.
+Prioritize the active research question. This notebook is optional: consult relevant notes when a prior result, assumption, correction, counterexample or method is needed. Start with the canonical project and Commons handoff; do not load the entire notebook by default. Search can be enough; follow a link when its stated relation helps the current question.
+
+Capture only material worth reusing, with a pointer to its canonical source. Do not create a note, link, proof or diary entry merely to satisfy a format. Do not expand retrieval infrastructure until actual work exposes a consequential retrieval problem.
+
+Committed notes persist externally. They do not automatically enter another chat's context or change its internal memory. Record useful workflow preferences here; do not claim an internal memory update without an available memory-write capability and successful result.
 
 Capture a rough question or connection before polishing it. Plain language, a status and a source or provenance are enough initially. Do not invent sources or claim another chat read a message without acknowledgment.
 
